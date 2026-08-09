@@ -34,7 +34,6 @@ p {
 
 .button_div {
     text-align: center;
-    
 }
 
 .button {
@@ -51,4 +50,8 @@ p {
     padding-top: 25px;
     padding-bottom: 25px;
     box-shadow: none;
+    color: #049158;
+    text-align: center;
+    font-weight: bold;
+    font-size:80px
 }
