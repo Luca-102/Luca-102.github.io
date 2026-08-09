@@ -29,9 +29,11 @@ p {
 
 .button_div {
     text-align: center;
+    
 }
 
 .button {
+    display: inline-block;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
@@ -40,7 +42,7 @@ p {
     border-color: #333333;
     border-width: 4px;
     text-align: center;
-    width: 400px;
-    height: 100px;
+    width: 20%;
+    height: 50px;
     box-shadow: none;
 }
