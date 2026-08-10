@@ -32,10 +32,6 @@ p {
     color:#049158
 }
 
-.button_div {
-    text-align: center;
-}
-
 .button {
     border-radius: 10px;
     background-color: #6d6d6d;
@@ -47,13 +43,13 @@ p {
     display: inline-block;
     font-weight: bold;
     font-size:80px;
-    text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     text-decoration: none;
+    text-align: center;
     width: 20%;
 }
 
 .button:hover {
-    background-color: #fc0000;
+    background-color: #464646;
 }
